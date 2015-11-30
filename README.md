@@ -1,29 +1,30 @@
-# Библиотека нужных статей и всяких полезностей
+# Библиотека всяких полезностей
 
-1. [HTML&CSS](#html&css)
+1. [HTML&CSS](#htmlcss)
 2. [JavaScript](#javascript)
 3. [Automation](#automation)
 4. [Design](#design)
 
 ## HTML&CSS
 
-* [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
+* [HTML5 Boilerplate](https://html5boilerplate.com) - стартовый шаблон для верстки.
+* [Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/) - подробная статья.
+* [Центрирование в CSS](http://howtocenterincss.com) - подбор нужного способа центрирования в зависимости от ситуации.
 
 ## JavaScript
 
-* [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
+* [fullPage.js](http://alvarotrigo.com/fullPage/#firstPage) - плагин для прокрутки в виде слайдов.
+* [liMarquee](http://masscode.ru/index.php/k2/item/44-limarquee) - бегущая строка на jQuery.
 
 ## Automation
 
-* [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
+* [Grunt для начинающих](http://frontender.info/a-beginners-guide-to-grunt-redux/) - руководство по использованию Grunt для начинающих: пересмотренное издание.
+* [Приятная сборка frontend проекта](http://habrahabr.ru/post/250569/) - организация сборки проекта на Gulp.
 
 ## Design
 
-* [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
+* [Pixabay](https://pixabay.com/ru/) - один из лучших фотостоков.
+* [Prototype Tools](https://xakep.ru/2014/09/09/prototype-tools/) - обзор инструментов для прототипирования пользовательских интерфейсов.
 
 
 
