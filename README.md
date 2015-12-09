@@ -11,6 +11,10 @@
 * [Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/) - подробная статья.
 * [Центрирование в CSS](http://howtocenterincss.com) - подбор нужного способа центрирования в зависимости от ситуации.
 
+### Эффекты
+
+* [Эффекты клика](http://tympanus.net/Development/ClickEffects/)
+
 ## JavaScript
 
 * [fullPage.js](http://alvarotrigo.com/fullPage/#firstPage) - плагин для прокрутки в виде слайдов.
@@ -20,6 +24,7 @@
 
 * [Grunt для начинающих](http://frontender.info/a-beginners-guide-to-grunt-redux/) - руководство по использованию Grunt для начинающих: пересмотренное издание.
 * [Приятная сборка frontend проекта](http://habrahabr.ru/post/250569/) - организация сборки проекта на Gulp.
+* [Оптимизация производительности веб-страниц:CSS](http://forwebdev.ru/css/optimiziruem-proizvoditelnost-veb-stranicy-css/) - в том числе при помощи автоматизации.
 
 ## Design
 
