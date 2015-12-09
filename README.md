@@ -9,11 +9,13 @@
 
 * [HTML5 Boilerplate](https://html5boilerplate.com) - стартовый шаблон для верстки.
 * [Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/) - подробная статья.
-* [Центрирование в CSS](http://howtocenterincss.com) - подбор нужного способа центрирования в зависимости от ситуации.
+* [Центрирование на CSS](http://howtocenterincss.com) - подбор нужного способа центрирования в зависимости от ситуации.
+* [Кнопочки](http://unicorn-ui.com/buttons/) - библиотека всевозможного офрмления кнопок.
+
 
 ### Эффекты
 
-* [Эффекты клика](http://tympanus.net/Development/ClickEffects/)
+* [Эффекты клика по кнопочкам](http://tympanus.net/Development/ClickEffects/).
 
 ## JavaScript
 
