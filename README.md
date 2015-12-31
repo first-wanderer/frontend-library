@@ -45,6 +45,7 @@
 * [15 Text Effects](http://www.webappers.com/2015/09/03/15-awesome-css3-text-effects/) - 15 отличных текстовых эффектов.
 * [Animating Images](http://pencilscoop.com/2014/04/animating-images-with-css-keyframes/) - анимированные (живые) изображения с помощью CSS.
 * [Animated SVG Image Slider](https://codyhouse.co/gem/animated-svg-image-slider/) - интересные эффекты смены слайдов при помощи SVG.
+* [Filter Effects](http://www.cssreflex.com/css-generators/filter) - генератор CSS фильтров.
 
 
 ### Адаптивность
