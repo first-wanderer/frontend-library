@@ -24,6 +24,7 @@
 * [Squeezebox Portfolio Template](https://codyhouse.co/gem/squeezebox-portfolio-template/) - интересная реализация портфолио.
 * [CSS Hexagon, Please](http://csshexagon.com/) - генератор гексагонов на CSS.
 * [StyleStats](http://www.stylestats.org/) - анализ статистики стилей используемых на сайте.
+* [CSS ARROW PLEASE!](http://www.cssarrowplease.com/) - генератор CSS стрелочек (банальных).
 
 
 ### Эффекты
