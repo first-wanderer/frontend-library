@@ -32,6 +32,7 @@
 * [FullscreenForm](http://tympanus.net/Development/FullscreenForm/) - полноэкранная форма в несколько шагов.
 * [WTF, forms?](http://wtfforms.com/) - стилизация элементов форм.
 * [WTF, HTML и CSS?](http://frontender.info/wtfhtmlcss/) - список затруднений, ошибок и дилемм, присутствующих в HTML и CSS.
+* [CSS Refresher](https://habrahabr.ru/post/273471/) - коллекция практических советов и заметок по вёрстке.
 * [Basscss](http://www.basscss.com/) - легковесная библиотека компонентов.
 * [Primer](http://primercss.io/scaffolding/) - очередная библиотека компонентов.
 * [Materialize](http://materializecss.com/getting-started.html) - библиотека компонентов с Material design.
@@ -55,7 +56,7 @@
 * [Эффекты наведения](http://tympanus.net/codrops2014/) - подборка ресурсов с эффектами наведения за 2014.
 * [Original Hover Effects](http://tympanus.net/Tutorials/OriginalHoverEffects/index.html) - оригинальные эффекты наведения на блок с изображением.
 * [Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/index.html) - красивые эффекты наведения на блок с изображением.
-* [CSS3 Hover Effects](http://fox-hover.co.uk/basic-hover-pack/) - эффекты появления подписи при наведении на блок с изображением.
+* [CSS3 Hover Effects](http://fox-hover.co.uk/basic-hover-pack/) - эффекты появления подписи при наведении на блок с изображением ([Туториал по их созданию](https://habrahabr.ru/post/265451/)).
 * [iHover](http://gudh.github.io/ihover/dist/index.html) - оригиинальные эффекты появления подписи при наведении на блок с изображением.
 * [12 Fun Sharing Button Effects](http://demo.tutorialzine.com/2014/11/12-fun-sharing-button-effects/future.html) - 12 эффектов появления кнопок при наведении на блок с изображением.
 * [Colorful CSS Buttons](http://codepen.io/chrisdothtml/full/waKBdM/) - цветовые эффекты наведения на кнопки.
@@ -79,12 +80,16 @@
 * [Filter Effects](http://www.cssreflex.com/css-generators/filter) - генератор CSS фильтров.
 * [Vintage Terminal Effect in CSS3](http://blog.carbonfive.com/2015/01/07/vintage-terminal-effect-in-css3/) - эффект терминала на CSS3.
 * [Reverse Text Color](https://css-tricks.com/reverse-text-color-mix-blend-mode/) - автоматическая смена цвета текста на основе цвета фона на CSS.
+* [CodePen Design Patterns](http://codepen.io/patterns) - коллекция идей и вдохновляющих демок для ваших проектов.
 
 
 ### Адаптивность
 
 * [Адаптивные изображения на практике](http://alistapart.com/article/responsive-images-in-practice) - применение picture, srcset и sizes для адаптивной графики.
+* [Адаптивные изображения: переключение разрешений](http://webtackles.ru/css/responsive-images-resolution-switching/).
 * [Introduction to SVG](http://thenewcode.com/970/Web-Developer-Reading-List-Introduction-to-SVG) - введение в SVG (Web Developer Reading List).
+* [SVG: полезные ссылки](http://css.yoksel.ru/pages/svg-links/).
+* [SVG в вебе](https://svgontheweb.com/ru/) - Практическое руководство.
 * [SVG-иконки – много и со стилем](http://habrahabr.ru/company/devexpress/blog/269331/) - SVG-иконки: преимущества и использование.
 * [Кроссбраузерные SVG иконки](http://sketchapp.me/kak-realizovat-kross-brauzernye-svg-ikonki/) - SVG-иконки: реализация, фоллбек, SVG-спрайт.
 * [CSS vs SVG: Styling Checkboxes and Radio Buttons](https://blogs.adobe.com/dreamweaver/2015/08/css-vs-svg-styling-checkboxes-and-radio-buttons.html) - CSS vs SVG: стилизация элементов форм с использованием векторной графики.
@@ -110,10 +115,15 @@
 * [Меню на Flexbox](http://canonium.com/articles/tutorial-create-flexbox-navbar) - навигационное меню с использованием Flexbox.
 * [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - популярные кейсы на Flexbox.
 * [FLEXBOX FROGGY](http://flexboxfroggy.com/#ru) - игра для освоения основных принципов Flexbox.
+* [Flexbox playground](http://codepen.io/enxaneta/full/adLPwv/) - основные Flexbox свойства в действии.
+* [Полное руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/) - статья на Frontender Magazine.
+* [Sticky Footer with Flexbox](http://demo.tutorialzine.com/2016/03/quick-tip-the-best-way-to-make-sticky-footers/) - прилипающий футер на Flexbox.
 
 ## JavaScript
 
 * [JavaScript Cheat Sheet](http://geoffford.co.uk/blog/javascript-cheat-sheet) - шпоргалки по JS.
+* [Javascript Anomaly](https://github.com/ufostation/javascript.anomaly) - примеры неочевидного поведения JS.
+* [JavaScript модули](http://webtackles.ru/javascript/js-modules-beginners-guide/) - руководство для начинающих.
 * [Angularjs style guide](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ru-ru.md) - лучшие практики и рекомендации по стилю для AngularJS приложений.
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU) - принципы написания консистентного, идиоматического кода на JavaScript.
 
@@ -164,6 +174,7 @@
 * [12 Column Grid System with Sass](http://inspirationalpixels.com/tutorials/grid-system-with-sass) - 12-ти колоночная сетка на SASS.
 * [include-media](http://include-media.com/) - SASS-бибиотека для медиа-выражений.
 * [Google Fonts with Sass](http://www.developerdrive.com/2014/05/how-to-easily-use-google-fonts-with-sass/) - как просто использовать Google Fonts с SASS.
+* [Family.scss](http://lukyvj.github.io/family.scss/) - SASS миксины для nth-child селекторов.
 
 ## Design
 
@@ -177,5 +188,3 @@
 * [CSS Stats](http://www.cssstats.com/) - статистика стилей сайта.
 * [Sublime Text packages](https://medium.com/@vilcins/sublime-text-packages-for-front-end-development-d7b35a89e16d) - подборка плагинов для Sublime Text.
 * [Emmet cheat sheet](http://docs.emmet.io/cheat-sheet/) - сокращения плагина Emmet.
-
-
